@@ -1,4 +1,4 @@
-# M-moire_M2_TNAH
+# Mémoire_M2_TNAH
 
 Mémoire de stage réalisé en vue de l'obtention du Master2 TNAH.
 J'ai été amené à travailler 4 mois sur la base Salons du musée d'Orsay.
